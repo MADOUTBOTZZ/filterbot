@@ -39,6 +39,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
 
 ### Thank You [Subinps](https://t.me/Subinps_bot)
 ### Thank You [Shamil || SmL](https://t.me/shamilnelli)
+### Thank You [Aswin](https://github.com/Aswin-TG)
 
 ## Variables
 
