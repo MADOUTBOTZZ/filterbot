@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2",
-    "repository": "https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2",
+    "website": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
+    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
@@ -73,7 +73,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/Ah3HXjUfaKc",
             "value": ""
         },
         "DATABASE_NAME": {
