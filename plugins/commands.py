@@ -107,7 +107,7 @@ async def start(bot, cmd):
                        InlineKeyboardButton("🔔 SUBSCRIBE 🔔", url='https://youtu.be/2tek7Y5CEF4'),
                     ],
                      [
-                        InlineKeyboardButton("About", callback_data="about")
+                        InlineKeyboardButton("🗣️ About", callback_data="about")
                     ]
                 ]
             )
