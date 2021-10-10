@@ -66,8 +66,8 @@ async def start(bot, cmd):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-                        InlineKeyboardButton('More Bots', url='https://t.me/LXRYOUTUBERYT')
+                        InlineKeyboardButton('📺 Search again 🔍', switch_inline_query_current_chat=''),
+                        InlineKeyboardButton('💌 SUBSCRIBE 💌', url='https://youtu.be/2tek7Y5CEF4')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -99,12 +99,12 @@ async def start(bot, cmd):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("Source Code", url='https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2'),
+                        InlineKeyboardButton("📺 Search Here 🔍", switch_inline_query_current_chat=''),
+                        InlineKeyboardButton("📥 OTT MOVIES 📥", url='https://t.me/MALAYALAMNEWMOVIESONLY1'),
                     ],
                    [
-                       InlineKeyboardButton("Update Channel", url='https://t.me/LXRYOUTUBERYT'),
-                       InlineKeyboardButton("Support Group", url='https://t.me/LXRBOTSGROUP'),
+                       InlineKeyboardButton("🍿 MOVIES 📺", url='https://t.me/malayalammoviesmms'),
+                       InlineKeyboardButton("🔔 SUBSCRIBE 🔔", url='https://youtu.be/2tek7Y5CEF4'),
                     ],
                      [
                         InlineKeyboardButton("About", callback_data="about")
@@ -196,7 +196,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/LXRYOUTUBERYT'),
+            InlineKeyboardButton('💌 SUBSCRIBE 💌', url='https://youtu.be/2tek7Y5CEF4'),
             InlineKeyboardButton('Source Code', url='https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2')
         ]
         ]
@@ -206,7 +206,7 @@ async def bot_info(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/LXRYOUTUBERYT'),
+            InlineKeyboardButton('💌 SUBSCRIBE 💌', url='https://youtu.be/2tek7Y5CEF4'),
             InlineKeyboardButton('Support Group', url='https://t.me/LXRBOTSGROUP')
         ]
         ]
@@ -271,7 +271,7 @@ async def showinfo(client, message):
         f"<b>UserID</b> : <code>{id}</code>\n"
         f"<b>Username Name</b> : {user_name}\n"
         f"<b>Permanant USER Link</b> : <a href='tg://user?id={id}'>Link ❗️</a>\n\n"
-        f"<b>@ErrorXBotz</b>",
+        f"<b>@malayalammoviesmms</b>",
         quote=True,
         parse_mode="html"
     )
