@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2",
+    "website": "https://github.com/MADOUTBOTZZ",
+    "repository": "https://github.com/MADOUTBOTZZ/filterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
