@@ -104,7 +104,7 @@ async def start(bot, cmd):
                     ],
                    [
                        InlineKeyboardButton("🍿 𝗠𝗢𝗩𝗜𝗘𝗦 📺", url='https://t.me/INSTANTMOVIEZ'),
-                       InlineKeyboardButton("⚡DEVELOPER⚡", url='https://youtu.be/2tek7Y5CEF4'),
+                       InlineKeyboardButton("⚡DEVELOPER⚡", url='https://t.me/MINNALMURALIBOTZ'),
                     ],
                      [
                         InlineKeyboardButton("🗣️ 𝗔𝗕𝗢𝗨𝗧", callback_data="about")
@@ -196,8 +196,8 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('⚡DEVELOPER⚡', url='https://youtu.be/2tek7Y5CEF4'),
-            InlineKeyboardButton('📥 MOVIES REQUEST GROUP 📥', url='https://t.me/malayalammoviesmms')
+            InlineKeyboardButton('⚡DEVELOPER⚡', url='https://t.me/MINNALMURALIBOTZ'),
+            InlineKeyboardButton('📥 MOVIES REQUEST GROUP 📥', url='https://t.me/INSTANTMOVIEZ')
         ]
         ]
     await message.reply(text="<b>Developer : <a href='https://t.me/malayalammoviemmms'>꧁LXR=AMAL★࿐</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://youtu.be/2tek7Y5CEF4'>Click here</a>\nUpdate Channel : <a href='https://t.me/MALAYALAMNEWMOVIESONLY1'>𝙹𝙾𝙸𝙽 𝙽𝙾𝚆</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -206,8 +206,8 @@ async def bot_info(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('⚡ 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 ⚡', url='https://youtu.be/2tek7Y5CEF4'),
-            InlineKeyboardButton('⚡ 𝗦𝗨𝗣𝗣𝗢𝗨𝗥𝗧 𝗚𝗥𝗢𝗨𝗣 ⚡', url='https://t.me/malayalammoviesmms')
+            InlineKeyboardButton('⚡ DEVELOPER ⚡', url='https://t.me/MINNALMURALIBOTZ'),
+            InlineKeyboardButton('⚡ 𝗦𝗨𝗣𝗣𝗢𝗨𝗥𝗧 𝗚𝗥𝗢𝗨𝗣 ⚡', url='https://t.me/INSTANTMOVIEZ')
         ]
         ]
     await message.reply(text="<b>If You Have Any Doubts And If Any Errors In Codes Or Bugs Inform Us On Our Support Group ❗️\n Use Below Buttons To Get Support Group / Update channel Links </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -271,7 +271,7 @@ async def showinfo(client, message):
         f"<b>UserID</b> : <code>{id}</code>\n"
         f"<b>Username Name</b> : {user_name}\n"
         f"<b>Permanant USER Link</b> : <a href='tg://user?id={id}'>Link ❗️</a>\n\n"
-        f"<b>@malayalammoviesmms</b>",
+        f"<b>@INSTANTMOVIEZ</b>",
         quote=True,
         parse_mode="html"
     )
